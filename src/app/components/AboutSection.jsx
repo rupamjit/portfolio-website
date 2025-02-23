@@ -54,8 +54,7 @@ const AboutSection = () => {
             working with HTML, CSS, JavaScript, React, Redux, Node.js, Express,
             PostgreSQL, Typescript, MongoDB, Docker, Next JS and Git.
             I am a quick learner and I am always looking to expand my knowledge
-            and skill set. I am a team player and I am excited to work with
-            others to create amazing applications.
+            and skill set.
           </p>
           <div className="flex flex-row justify-start gap-10 mt-8">
             <TabButton
