@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Uber Clone",
     description: "This is uber clone user",
-    image: "/images/uber.jpg",
+    image: "/uber.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/rupamjit/uber-clone",
   }
