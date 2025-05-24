@@ -6,6 +6,8 @@ import ProjectsSection from "./components/ProjectSection";
 import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
 
+
+
 export default function Home() {
   return (
     <main
